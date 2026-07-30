@@ -1,3 +1,18 @@
+# Workshops
+
+## Claude Code on Amazon Bedrock
+```
+https://catalog.us-east-1.prod.workshops.aws/join?access-code=2893-053c52-83
+```
+
+## Build Production Strands Agents with Multi-Tool Orchestration
+```
+https://catalog.us-east-1.prod.workshops.aws/join?access-code=aecb-082a8f-13
+```
+
+---
+---
+
 # UK Loan Application - Sample Conversation
 
 > Multi-agent 대출 신청 시스템의 E2E 테스트용 샘플 대화입니다.  
