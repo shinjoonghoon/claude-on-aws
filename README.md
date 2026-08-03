@@ -2,12 +2,10 @@
 
 ## Claude Code on Amazon Bedrock
 ```
-https://catalog.us-east-1.prod.workshops.aws/join?access-code=2893-053c52-83
 ```
 
 ## Build Production Strands Agents with Multi-Tool Orchestration
 ```
-https://catalog.us-east-1.prod.workshops.aws/join?access-code=aecb-082a8f-13
 ```
 
 ---
